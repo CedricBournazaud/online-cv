@@ -80,43 +80,60 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Full Stack Developer
+        time: 2021 - Actuellement
+        company: Orange Business. (Avec SII Sophia Sophia-Antipolis)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Développement d’une plateforme web de gestion de test de routeur et de Notification pour Orange Business et leur client.
+          Application avec 6000 utilisateurs dans le monde. Gestion de projet en méthode Agile avec une équipe de 5 développeurs et Scrum master.
+          Framework .Net 4.8 en cours de migration vers .NET 6 avec SQL SERVEUR
+          Migration en Blazor et React
+      - role: Gérant EURL
+        time: 2009 - 2020
+        company: CBCOMPUTER
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Création du Site Internet jusqu’au suivi du client final.
+          -	Utilisation des Solution .NET Blazor et Open Source : Prestashop, Wordpress adipiscing.          
+          - Freelance chez Intel Lab Sophia Antipolis Laboratoire de Certification Mobile et Laptop (2017-2022)
+            - Création En .NET MVC Gestion Environnemental
+              Interrogation SNMP des sondes du bâtiment et représentation 3D en temps réel des Sonde sur le Bâtiment
+              Sauvegarde des historiques des Températures/Humidités 
+              Interrogation des historiques par API
+            - Création en Python/Mysql Logiciel PERIODIC INTERMEDIATE CHECK
+            - Création Application ISAN .NET BLAZOR
+              Logiciel de gestion Réception/Envoi Colis avec notification
+            - Création Application PO .NET BLAZOR
+              Logiciel de gestion Devis/Facturations Client Externe et Interne du Lab
+              Gestion d’un service Windows avec Chromeless 
+              Composant Blazorise
+            - Création Application PO .NET BLAZOR
+              Logiciel de gestion Devis/Facturations Client Externe et Interne du Lab
+              Gestion d’un service Windows avec Chromeless 
+              Composant Blazorise
+            - Création Application Gestion des DUT (Sample Reçu)
+              Framework .NET 6 /Blazor avec ABP
+              Composant Blazorise et MudBlazor
+            - Création Application Gestion des DUT (Sample Reçu)
+              Framework .NET 6 /Blazor avec ABP
+              Composant Blazorise et MudBlazor
+      - role: Ingénieur Système
+        time: 1999 - 2009
+        company: Infineon
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Conseil et mise en place du site Intranet France Infineon
+          Création d’application RH pour la gestion des augmentations et primes en .NET.
+          Migration de base Excel et Access sur SQL Server.
+          Résolution des problèmes et support aux utilisateurs, Compte, Active Directory, Matériel informatiques.
+          administration et gestion des plateformes de développement .NET pour le serveur WEB. 
+          Veille Technologique
+          Recherche sur les technologies Open Source (Ubuntu, Red Hat)
+          VMware server
+          - Intitulé de l’intervention : Support GLM (Gestion License Management)
+            Gestion et supervision du logiciel GLM Niveau Mondial:
+            Support base de données Oracle
+            Surveillance des scripts de récupération des informations de License.
+            Application Critique avec support 24/24
+            Développement de modules d’amélioration des scripts
 projects:
     title: Projects
     intro: >
