@@ -39,7 +39,7 @@ sidebar:
           level: Technique courant
        
     interests:
-      title: Interests
+      title: LOISIRS
       info:
         - item: Musculation
           link:
@@ -53,16 +53,19 @@ sidebar:
 career-profile:
     title: Profile de carrière
     summary: |
-     Je suis développeur expérimenté depuis plus de 20 ans dans les technologies .NET , .NET CORE, Blazor, Angular et intégrateur de solution WordPress et Prestashop. J’ai travaillé dans de grand groupe sur Sophia-Antipolis et je suis à mon compte depuis 10 ans.
+     Je suis développeur expérimenté depuis plus de 20 ans dans les technologies <b>.NET , .NET CORE, Blazor</b> et intégrateur de solution <b>WordPress</b> et <b>Prestashop</b>. 
+     J’ai travaillé dans de grand groupe sur Sophia-Antipolis et je suis à mon compte depuis 10 ans.
      Aujourd'hui je travail pour Orange Business.
      Je suis un passionné de l’informatique et des nouvelles technologies permettant d’avancer toujours plus dans le monde de l’internet.
      J’ai déjà développé de nombreuses solutions pour mes clients logiciel de gestion de commande, gestion de stock, site de commerce.
-     Mes compétences éprouvées et ma solide expérience en tant que développeur web et intégrateur responsive me permettent de vous offrir une excellente compréhension de vos besoins spécifiques couplée à une grande qualité de travail.
-     Il est crucial pour moi d'avoir une relation privilégiée avec mes clients, une relation de confiance, d'écoute et de compréhension de leurs besoins. J'ai choisi l'indépendance comme méthode de travail. Cela me permet d'être disponible et d'apporter mon expertise sans aucun intermédiaire.
+     Mes compétences éprouvées et ma solide expérience en tant que développeur web et intégrateur responsive me permettent de vous offrir 
+     une excellente compréhension de vos besoins spécifiques couplée à une grande qualité de travail.
+     Il est crucial pour moi d'avoir une relation privilégiée avec mes clients, une relation de confiance, d'écoute et de compréhension de leurs besoins. J'ai choisi l'indépendance comme méthode de travail. 
+     Cela me permet d'être disponible et d'apporter mon expertise sans aucun intermédiaire.
 education:
     title: Formations et Diplomes
     info:
-      - degree: Diplôme de Chef de Projet homologué BAC + 5
+      - degree: Diplôme de Chef de Projet BAC + 5
         university: Diplome E-CML E-CML (Ecole Supérieur des métiers de l’informatique)
         time: 1999 - 2002
         details: |
@@ -88,6 +91,9 @@ experiences:
           Application avec 6000 utilisateurs dans le monde. Gestion de projet en méthode Agile avec une équipe de 5 développeurs et Scrum master.
           Framework .Net 4.8 en cours de migration vers .NET 6 avec SQL SERVEUR
           Migration en Blazor et React
+          - XCONF Developpement et maintenance
+          - WAT Migration Application de flow vers le Framework ABP et Blazor
+          - Migration de Service 4.8 en .NET 6
       - role: Gérant EURL
         time: 2009 - 2020
         company: CBCOMPUTER
@@ -134,76 +140,26 @@ experiences:
             Surveillance des scripts de récupération des informations de License.
             Application Critique avec support 24/24
             Développement de modules d’amélioration des scripts
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C# & EF CORE
         level: 98%
 
       - name: Javascript & jQuery
+        level: 80%
+
+      - name: Blazor
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: HTML5
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: React
+        level: 50%
+      
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    CV <i class="fas fa-heart"></i>Cédric Bournazaud
