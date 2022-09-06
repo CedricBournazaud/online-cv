@@ -30,12 +30,12 @@ sidebar:
     pdf: 
 
     languages:
-      title: Languages
+      title: Langues:
       info:
         - idiom: Francais
           level: Native
 
-        - idiom: English
+        - idiom: Anglais
           level: Professional
        
     interests:
