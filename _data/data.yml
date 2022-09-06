@@ -30,37 +30,37 @@ sidebar:
     pdf: 
 
     languages:
-      title: Langues:
+      title: Langues
       info:
         - idiom: Francais
           level: Native
 
         - idiom: Anglais
-          level: Professional
+          level: Technique courant
        
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Musculation
           link:
 
-        - item: Snowboarding
+        - item: Cryptomonnaie
           link:
 
-        - item: Cooking
+        - item: Voyage
           link:
 
 career-profile:
-    title: Career Profile
+    title: Profile de carrière
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Je suis développeur expérimenté depuis plus de 20 ans dans les technologies .NET , .NET CORE, Blazor, Angular et intégrateur de solution WordPress et Prestashop. J’ai travaillé dans de grand groupe sur Sophia-Antipolis et je suis à mon compte depuis 10 ans.
+     Aujourd'hui je travail pour Orange Business.
+     Je suis un passionné de l’informatique et des nouvelles technologies permettant d’avancer toujours plus dans le monde de l’internet.
+     J’ai déjà développé de nombreuses solutions pour mes clients logiciel de gestion de commande, gestion de stock, site de commerce.
+     Mes compétences éprouvées et ma solide expérience en tant que développeur web et intégrateur responsive me permettent de vous offrir une excellente compréhension de vos besoins spécifiques couplée à une grande qualité de travail.
+     Il est crucial pour moi d'avoir une relation privilégiée avec mes clients, une relation de confiance, d'écoute et de compréhension de leurs besoins. J'ai choisi l'indépendance comme méthode de travail. Cela me permet d'être disponible et d'apporter mon expertise sans aucun intermédiaire.
 education:
-    title: Education
+    title: Formations et Diplomes
     info:
       - degree: MSc in Computer Science
         university: University of London
