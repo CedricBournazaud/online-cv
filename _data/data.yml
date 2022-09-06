@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Bournazaud Cédric
+    name: Cédric Bournazaud
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -62,28 +62,22 @@ career-profile:
 education:
     title: Formations et Diplomes
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Diplôme de Chef de Projet homologué BAC + 5
+        university: Diplome E-CML E-CML (Ecole Supérieur des métiers de l’informatique)
+        time: 1999 - 2002
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+         en alternance en partenariat avec l’entreprise Infineon
+         Major de Promo
+      - degree: Developpeur BAC +2
+        university: 1999 DUT Informatique option Mathématique Nice 
+        time: 1997 - 1999
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          DUT Informatique à l'université de NICE
+       - degree: BAC S
+        university: Option Technologie à Don Bosco NICE
+        time: 1997 - 1999
+        details: |
+           
 experiences:
     title: Experiences
     info:
