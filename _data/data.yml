@@ -73,11 +73,10 @@ education:
         time: 1997 - 1999
         details: |
           DUT Informatique à l'université de NICE
-       - degree: BAC S
+      - degree: BAC S
         university: Option Technologie à Don Bosco NICE
         time: 1997 - 1999
-        details: |
-           
+        details: |           
 experiences:
     title: Experiences
     info:
